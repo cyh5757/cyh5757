@@ -1,16 +1,70 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Younghwan Choi (최영환)</h1>
+<h3 align="center">AI 엔지니어로 성장 중인 Applied AI Developer입니다.</h3>
 
-<!--
-**cyh5757/cyh5757** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💡 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 LLM, CV, NLP 등 다양한 AI 기술을 활용한 **실전형 프로젝트 경험 보유**
+- 🧠 ViT, RAG, Re-ranking, GradCAM 등 구조적 이해와 직접 구현 능력 확보
+- 💊 헬스케어, 바이오, 메디컬 데이터에 관심 집중
+- 🏃‍♂️ 사이드 프로젝트, 해커톤, 러너톤 등 **실행 중심 학습 진행 중**
+
+---
+
+### 🧰 Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws)
+![LangChain](https://img.shields.io/badge/-LangChain-2e8b57?logo=data&logoColor=white)
+
+---
+
+
+### 🔥 Recently Involved Projects
+
+- 🧠 **[GPT 기반 과자/첨가물 RAG 시스템](https://github.com/cyh5757/HackathonLLM)**  
+  문서 Re-ranking 구조와 GPT Prompt 최적화를 적용한 실시간 질의응답 시스템
+
+- 🧬 **[MRI 기반 치매 진단 보조 모델](https://github.com/cyh5757/memoria_AI)**  
+  GradCAM, XAI 기반 해석 가능한 AI 모델 및 대시보드 구축
+
+- 📊 **[Vision Transformer 직접 구현 프로젝트]**  
+  Patch Embedding ~ Attention까지 ViT 구조를 처음부터 설계 및 실험
+
+---
+
+### 🌱 Currently Learning
+
+- 🤝 CLIP, ReAct 기반 멀티모달 모델 설계
+- 🔬 LangSmith 기반 LLM 응답 평가 체계 설계
+- ☁️ AWS 기반 MLOps 환경 구축
+
+---
+
+### 📫 Contact
+
+- 🐱 GitHub: [cyh5757](https://github.com/cyh5757)  
+- 📩 Email: cyh8781@gmail.com  
+- 📝 Blog: [Tistory](https://retrospect-box.tistory.com)
+
+---
+
+### 🥇 Badges & Certifications
+
+![정보처리기사](https://img.shields.io/badge/정보처리기사-국가기술자격-orange)
+![TOEIC 775](https://img.shields.io/badge/TOEIC-775-blue)
+![OPIC IM](https://img.shields.io/badge/OPIC-IM-yellow)
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=cyh5757&theme=onestar&column=6&margin-w=5" />
+</p>
