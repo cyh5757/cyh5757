@@ -64,7 +64,3 @@
 ![OPIC IM](https://img.shields.io/badge/OPIC-IM-yellow)
 
 ---
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cyh5757&theme=onestar&column=6&margin-w=5" />
-</p>
