@@ -56,11 +56,3 @@
 - 📝 Blog: [Tistory](https://retrospect-box.tistory.com)
 
 ---
-
-### 🥇 Badges & Certifications
-
-![정보처리기사](https://img.shields.io/badge/정보처리기사-국가기술자격-orange)
-![TOEIC 775](https://img.shields.io/badge/TOEIC-775-blue)
-![OPIC IM](https://img.shields.io/badge/OPIC-IM-yellow)
-
----
