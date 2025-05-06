@@ -44,6 +44,7 @@
 ### 🌱 Currently Learning
 
 - 🤝 음성 멀티모달 모델 설계
+- 🗽 멀티모달 llm
 - 🔬 LangSmith 기반 LLM 응답 평가 체계 설계
 - ☁️ AWS 기반 LLMOps 환경 구축
 
