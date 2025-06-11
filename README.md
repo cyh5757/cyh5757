@@ -36,7 +36,7 @@
 - 🧬 **[MRI 기반 치매 진단 보조 모델](https://github.com/cyh5757/memoria_AI)**  
   GradCAM, XAI 기반 해석 가능한 AI 모델 및 대시보드 구축
 
-- 📊 **[허위 과대 광고 선별 RAG 및 데이터 수집 시스템]**  
+- 📊 **[허위 과대 광고 선별 RAG 및 데이터 수집 시스템](https://github.com/medicalBiobyte/demo-repository)**  
   식의약 공공데이터를 이용한 모델 설계 및 실험
 
 ---
