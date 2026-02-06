@@ -24,6 +24,12 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws)
 ![LangChain](https://img.shields.io/badge/-LangChain-2e8b57?logo=data&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-512BD4?logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)
+![Spring%20Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
+
 
 ---
 
