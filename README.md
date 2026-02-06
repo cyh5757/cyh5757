@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Younghwan Choi (최영환)</h1>
-<h3 align="center">AI 리서쳐가 꿈인 주니어 개발자입니다.</h3>
+<h3 align="center">AI 리서쳐 주니어 개발자입니다.</h3>
 
 ---
 
