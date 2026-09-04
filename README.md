@@ -3,12 +3,7 @@
 
 ---
 
-### 💡 About Me
 
-- 🤖 LLM, CV, NLP 등 다양한 AI 기술을 활용한 **실전형 프로젝트 경험 보유**
-- 🧠 ViT, RAG, Re-ranking, GradCAM 등 구조적 이해와 직접 구현 능력 확보
-- 💊 헬스케어, 바이오, 메디컬 데이터에 관심 집중
-- 🏃‍♂️ 사이드 프로젝트, 해커톤, 러너톤 등 **실행 중심 학습 진행 중**
 
 ---
 
@@ -34,16 +29,7 @@
 ---
 
 
-### 🔥 Recently Involved Projects
 
-- 🧠 **[GPT 기반 과자/첨가물 RAG 시스템](https://github.com/cyh5757/HackathonLLM)**  
-  문서 Re-ranking 구조와 GPT Prompt 최적화를 적용한 실시간 질의응답 시스템
-
-- 🧬 **[MRI 기반 치매 진단 보조 모델](https://github.com/cyh5757/memoria_AI)**  
-  GradCAM, XAI 기반 해석 가능한 AI 모델 및 대시보드 구축
-
-- 📊 **[허위 과대 광고 선별 RAG 및 데이터 수집 시스템](https://github.com/medicalBiobyte/demo-repository)**  
-  식의약 공공데이터를 이용한 모델 설계 및 실험
 
 ---
 
@@ -60,6 +46,5 @@
 
 - 🐱 GitHub: [cyh5757](https://github.com/cyh5757)  
 - 📩 Email: cyh8781@gmail.com  
-- 📝 Blog: [Tistory](https://retrospect-box.tistory.com)
 
 ---
