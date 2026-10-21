@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Younghwan Choi (최영환)</h1>
-<h3 align="center">AI researcher 입니다.</h3>
 
 ---
 
@@ -28,19 +27,6 @@
 
 ---
 
-
-
-
----
-
-### 🌱 Currently Learning
-
-- 🤝 음성 멀티모달 모델 설계
-- 🗽 멀티모달 llm
-- 🔬 LangSmith 기반 LLM 응답 평가 체계 설계
-- ☁️ AWS 기반 LLMOps 환경 구축
-
----
 
 ### 📫 Contact
 
